@@ -1,3 +1,5 @@
+
+
 ## ABOUT ME
 
 Hi, I'm Daniel Díez, a passionate backend developer and specialised in API Development from spain. 
@@ -26,7 +28,7 @@ My passion for software lies with dreaming up ideas and making them come true. I
 
  🔥 **GITHUB STATS**
 
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=KosMos&hide_border=true&theme=cobalt">
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=KosMoS7NS&hide_border=true&theme=cobalt">
 <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiezMiguel&layout=compact&hide_border=true&langs_count=4&hide=Blade&theme=cobalt"> </br>
 
 <p align="center">
